@@ -1,27 +1,19 @@
 # Hello, I'm Rusiru!
 
-Welcome to my GitHub profile! I'm passionate about [your interests or areas of expertise].
 
 ## About Me
 
-- 🌱 I'm currently learning [something interesting].
-- 💼 Working as a [your job title].
-- 🎓 Graduated in [your field of study].
-- 😄 Pronouns: [he/him, she/her, they/them]
+- 🌱 I'm currently learning.
+- 😄 Pronouns: he/him
 
-## Technologies & Tools
-
-- 💻 [Technology 1]
-- 🚀 [Technology 2]
-- 🌐 [Technology 3]
 
 ## Projects
 
 Here are some projects I'm proud of:
 
-1. [Project 1](link-to-project1): Brief description.
-2. [Project 2](link-to-project2): Brief description.
-3. [Project 3](link-to-project3): Brief description.
+1. [C2-Discord]([link-to-project1](https://github.com/rusiru-19/C2-Discord)): Pythob based C2 server in discord
+2. [Spoofer]([link-to-project2](https://github.com/rusiru-19/spoofer)): spoof email with python
+3. [Wifi jammer]([link-to-project3](https://github.com/rusiru-19/wakanda.sh)): Automated wifi jamming bash script
 
 ## Connect with Me
 
