@@ -11,9 +11,9 @@
 
 Here are some projects I'm proud of:
 
-1. [C2-Discord]([link-to-project1](https://github.com/rusiru-19/C2-Discord)): Pythob based C2 server in discord
-2. [Spoofer]([link-to-project2](https://github.com/rusiru-19/spoofer)): spoof email with python
-3. [Wifi jammer]([link-to-project3](https://github.com/rusiru-19/wakanda.sh)): Automated wifi jamming bash script
+1. [C2-Discord]([link-to-C2-Discord](https://github.com/rusiru-19/C2-Discord)): Pythob based C2 server in discord
+2. [Spoofer]([link-to-Spoofer](https://github.com/rusiru-19/spoofer)): spoof email with python
+3. [Wifi-jammer]([link-to-Wifi-jammer](https://github.com/rusiru-19/wakanda.sh)): Automated wifi jamming bash script
 
 ## Connect with Me
 
