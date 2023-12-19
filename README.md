@@ -1,7 +1,6 @@
 # Hello, I'm Rusiru!
 
-
-- 😄 Pronouns: he/him   ![Alt Text](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) 
+- 😄 Pronouns: he/him                           ![Alt Text](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) 
 - 🌱 I'm currently learning.                                                                          
 
 
