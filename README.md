@@ -18,9 +18,8 @@ It allows you to control and manage your agents using Discord  <BR>
 Is a communication channel. without purchasing a vps now you will <br>
 able to maintain and control your backdoor's in discord servers
 
-### Project 2: [Project Name 2]
-![Project 2 Gif](link_to_project_2_gif.gif)
-_Description and highlights of Project 2._
+### EMAIL SPOOFER
+This python script willforge the sender's email address in an email header to deceive the recipient about the origin of the message. In other words, it involves sending emails with a falsified sender address, making it appear as if the email comes from a trusted source when, in reality, it does not.
 
 ## 🎮 Gaming Corner
 
