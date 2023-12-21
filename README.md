@@ -22,8 +22,7 @@ link to the project [ https://github.com/rusiru-19/spoofer ]
 ## 📫 Connect with Me
 
 - Discord: [evil.dev]
-- Instagram: [Insta]([https://github.com/your-username](https://www.instagram.com/capti4n.antrax/))
-
+- Instagram: https://www.instagram.com/capti4n.antrax/
 ## 🌟 Let's Build, Learn, and Have Fun Together! 🌟
 
 Feel free to explore my bots, projects, and join the Discord community. Don't hesitate to reach out for a chat, collaboration, or a round of gaming fun! 
