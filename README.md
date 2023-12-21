@@ -11,13 +11,13 @@ I'm a programmer  who loves diving into the realms of code, memes, and community
 
 ### DISCORD C2
 
-It allows you to control and manage your agents using Discord  
-Is a communication channel. without purchasing a vps now you will 
+It allows you to control and manage your agents using Discord  Is a communication channel. without purchasing a vps now you will 
 able to maintain and control your backdoor's in discord servers
+Link to the project [  ]
 
 ### EMAIL SPOOFER
 This python script willforge the sender's email address in an email header to deceive the recipient about the origin of the message. In other words, it involves sending emails with a falsified sender address, making it appear as if the email comes from a trusted source when, in reality, it does not.
-
+link to the project [ https://github.com/rusiru-19/spoofer ]
 ## 🎮 Gaming Corner
 
 When I'm not coding, you'll find me conquering virtual worlds or strategizing epic battles. Let's connect and play together!
