@@ -10,7 +10,7 @@ I'm a programmer  who loves diving into the realms of code, memes, and community
 ## 🚀 My Projects
 
 ### Project 1: [DISCORD C2]
-![Project 1 Gif]([link_to_project_1_gif.gif](https://media.tenor.com/K3BzWYqqR1oAAAAM/discord-pfp-discord-gif.gif))
+![Project 1 Gif]((https://media.tenor.com/K3BzWYqqR1oAAAAM/discord-pfp-discord-gif.gif))
   _DISCORD-C2 is a command and control (C2) server for Discord. It allows you to control and manage your agents using Discord as a communication channel._
 
 ### Project 2: [Project Name 2]
