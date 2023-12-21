@@ -11,11 +11,8 @@ I'm a programmer  who loves diving into the realms of code, memes, and community
 
 ### DISCORD C2
 
-<img src="https://raw.githubusercontent.com/rusiru-19/rusiru-19/main/Untitled-1.png" >
-<br>
-DISCORD-C2 is a command and control (C2) server for Discord.   <BR> 
-It allows you to control and manage your agents using Discord  <BR>
-Is a communication channel. without purchasing a vps now you will <br>
+It allows you to control and manage your agents using Discord  
+Is a communication channel. without purchasing a vps now you will 
 able to maintain and control your backdoor's in discord servers
 
 ### EMAIL SPOOFER
