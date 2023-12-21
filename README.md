@@ -1,31 +1,36 @@
-# Hello, I'm Rusiru!
+# 👋 Hello, Discord Explorers! 👋
 
-![Alt Text](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+Welcome to my Discord Universe! I'm Evil.dev , your friendly neighborhood bot enthusiast and code wizard. Here, you'll find a mix of creativity, tech magic, and perhaps a touch of chaos. Let's embark on this digital journey together!
+
+## 🌌 About Me
+
+I'm a programmer  who loves diving into the realms of code, memes, and community engagement. From crafting bots to exploring new features, my Discord world is always buzzing with excitement.
 
 
-#About 
-- 😄 Pronouns: he/him 
-- 🌱 I'm currently learning.
+## 🚀 My Projects
 
-## Projects
+### Project 1: [Project Name 1]
+![Project 1 Gif](link_to_project_1_gif.gif)
+  _Discord as a C2 server_
 
-Here are some projects I'm proud of:
+### Project 2: [Project Name 2]
+![Project 2 Gif](link_to_project_2_gif.gif)
+_Description and highlights of Project 2._
 
-1. [C2-Discord]([link-to-C2-Discord](https://github.com/rusiru-19/C2-Discord)): Pythob based C2 server in discord
-2. [Spoofer]([link-to-Spoofer](https://github.com/rusiru-19/spoofer)): spoof email with python
-3. [Wifi-jammer]([link-to-Wifi-jammer](https://github.com/rusiru-19/wakanda.sh)): Automated wifi jamming bash script
+## 🎮 Gaming Corner
 
-## Connect with Me
+When I'm not coding, you'll find me conquering virtual worlds or strategizing epic battles. Let's connect and play together!
 
-- 📫 How to reach me: [Your Email]
-- 💬 Let's chat on [Twitter](https://twitter.com/your_username)!
+![Gaming Gif](link_to_gaming_gif.gif)
 
-## GitHub Stats
+## 📫 Connect with Me
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&hide=contribs)](https://github.com/your_username)
+- Discord: [evil.dev]
+- GitHub: [Your GitHub Profile](https://github.com/your-username)
 
-## Top Languages
+## 🌟 Let's Build, Learn, and Have Fun Together! 🌟
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)](https://github.com/your_username)
+Feel free to explore my bots, projects, and join the Discord community. Don't hesitate to reach out for a chat, collaboration, or a round of gaming fun!
 
-Feel free to explore my repositories and don't hesitate to reach out. Let's collaborate and build amazing things together! 🚀
+![Dancing Gif](link_to_dancing_gif.gif)
+
