@@ -10,9 +10,9 @@ I'm a programmer  who loves diving into the realms of code, memes, and community
 ## 🚀 My Projects
 
 ### DISCORD C2
-<p align="left">
-   <img src="https://media.tenor.com/K3BzWYqqR1oAAAAM/discord-pfp-discord-gif.gif" >
-</p> <br>
+
+<img src="https://raw.githubusercontent.com/rusiru-19/rusiru-19/main/Untitled-1.png" >
+<br>
   _DISCORD-C2 is a command and control (C2) server for Discord.        
   It allows you to control and manage your agents using Discord  
   as a communication channel._
