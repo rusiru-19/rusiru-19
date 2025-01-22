@@ -4,8 +4,7 @@ Welcome to my mighty Universe! I'm Evil.dev , your friendly neighborhood bot ent
 
 ## 🌌 About Me
 
-I'm a programmer who loves diving into the realms of code, memes, and community engagement. From crafting bots to exploring new features, my Discord world is always buzzing with excitement.
-
+Hey there... I'm Rusiru Thamara fullstack developer but i really do into backend ;). I'm currently studying in Richmond College Galle and my tech stack is PHP, JS , REACT also currently im using Next.Js as my main framework Take a look into what i have done, visit my portofollio-> https://portfolio-phi-taupe-65.vercel.app/
 ## 📫 Connect with Me
 
 - Discord: [evil.dev]
