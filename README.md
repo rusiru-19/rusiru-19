@@ -1,6 +1,6 @@
-# Hi there, I'm Null Byte 👋
+# Hi there, I'm Rusiru 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub)
+![Profile Banner]()
 
 ## 🚀 About Me
 - 💻 Passionate developer who loves building intuitive and efficient applications.
