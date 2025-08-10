@@ -1,16 +1,42 @@
-# 👋 Hello, Programmers! 👋
+# Hi there, I'm Null Byte 👋
 
-I'm a passionate and driven individual with a curiosity for technology, creativity, and problem solving. Currently exploring opportunities that challenge me to grow both personally and professionally. I enjoy working on impactful projects that blend innovation, design, and functionality
-## 🌌 About Me
+![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub)
 
-Hey there... I'm Rusiru Thamara fullstack developer but i really do into backend ;). I'm currently studying in Richmond College Galle and my tech stack is PHP, JS , REACT also currently im using Next.Js as my main framework Take a look into what i have done, visit my portofollio-> https://portfolio-phi-taupe-65.vercel.app/
-## 📫 Connect with Me
+## 🚀 About Me
+- 💻 Passionate developer who loves building intuitive and efficient applications.
+- 🎯 Always exploring **new tech stacks** and solving real-world problems.
+- 🛠 Currently studying on  **Richmond College  Galle** as a stydebt 
+- 🌱 Learning: **Docker, DevOps, and Next.js performance optimizations**
+- 📍 Based in: **Sri Lanka**
 
-- Discord: [evil.dev]
-- Instagram: https://www.instagram.com/capti4n.antrax/
-## 🌟 Let's Build, Learn, and Have Fun Together! 🌟
+---
 
-Feel free to explore my bots, projects, and join the Discord community. Don't hesitate to reach out for a chat, collaboration, or a round of gaming fun! 
+## 🛠 Tech Stack
+**Languages:**
+- JavaScript / TypeScript  
+- PHP / SQL  
+- Python (automation & scripts)  
 
-![Dancing Gif](link_to_dancing_gif.gif)
+**Frameworks & Tools:**
+- Next.js / React  
+- Docker & Docker Compose  
+- Tailwind CSS  
+- PostgreSQL / MySQL  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rusiru-19&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rusiru-19&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/rusiru-thamara-603276256)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://portfolio-phi-taupe-65.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:evildev360@example.com)
+
+---
+
+⭐ **Fun Fact:** I believe every bug is just a hidden feature… until 3 AM.
 
