@@ -1,6 +1,6 @@
 # Hi there, I'm Rusiru 👋
 
-![Profile Banner](https://raw.githubusercontent.com/rusiru-19/rusiru-19/refs/heads/main/github-header-banner.png)
+![Profile Banner](https://raw.githubusercontent.com/rusiru-19/rusiru-19/refs/heads/main/github-header-banner%20(1).png)
 
 ## 🚀 About Me
 - 💻 Passionate developer who loves building intuitive and efficient applications.
