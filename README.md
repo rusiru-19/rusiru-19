@@ -30,7 +30,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rusiru-19&layout=compact&theme=radical)
 
 ---
+---
 
+# Swags
+[![An image of @rusiru19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rusiru19)](https://holopin.io/@rusiru19)
+
+--- 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/rusiru-thamara-603276256)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://portfolio-phi-taupe-65.vercel.app/)
